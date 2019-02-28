@@ -1,8 +1,9 @@
-Esta es mi página personal, en ella explico con más detalles mi vida personal y profesional. 
+Esta es mi página web personal, en ella explico con más detalles mi vida personal y profesional. 
 Desarrollada por mí (Pablo Iglesia)
 
-This is Mt personal webpage. Here you will find details about my professional and personal life.
-Weboage developed by me (Pablo Iglesia)
+This is my personal webpage. Here you will find details about my professional and personal life.
+Webpage developed by me (Pablo Iglesia)
+
 
 Credits:
 HTML + CSS Template: Stellar by HTML5 UP
