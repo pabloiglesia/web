@@ -72,7 +72,6 @@
 		}
 
 		.avatar:before {
-			content: '';
 			display: block;
 			position: absolute;
 			top: 50%;
