@@ -50,6 +50,47 @@
 
 /* ======================================================= NUEVO ==========================================================================
 
+/*IMAGE HOVER*/
+.hoverImageContainer {
+  position: relative;
+}
+
+.hoverImage {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.hoverImageOverlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(100,100,100,0.8);
+  border-radius: 50%;
+}
+
+.hoverImageContainer:hover .hoverImageOverlay {
+  opacity: 1;
+}
+
+.hoverImageText {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+/*END IMAGE HOVER*/
+
 /* Box Model */
 
 	*, *:before, *:after {
