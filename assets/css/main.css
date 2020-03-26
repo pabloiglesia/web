@@ -1817,7 +1817,6 @@
 
 	p {
 		margin: 0 0 2em 0;
-		text-align: justify;
 	}
 
 		p.content {
@@ -1855,7 +1854,6 @@
 
 	h3 {
 		font-size: 1.25em;
-		font-weight: bold;
 	}
 
 	h4 {
